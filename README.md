@@ -42,7 +42,7 @@
 
 <section>
     <h2>Show Some ❤️ </h2>
-    <p>If you've had a great shopping experience or appreciate what we offer, consider starring⭐ our repository and sharing it with your network!</p>
+    <p>If you've had a great experience or appreciate what we offer, consider starring⭐ our repository and sharing it with your network!</p>
   </section>
 </body>
 </html>
